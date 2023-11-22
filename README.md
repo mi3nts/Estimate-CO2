@@ -34,4 +34,4 @@ howpublished={https://github.com/mi3nts/Estimate-CO2},
 year={2023},
 }
 ```
-The entire dataset and description is available in Zenodo:
+The entire dataset and description is available in Zenodo: https://zenodo.org/records/10184801
