@@ -20,16 +20,18 @@ The DataFrame that was used in building the machine learning model is stored as 
 
 #### Citation
 
-If the code and data was useful, then the following citation can be used:
-Ruwali S, Fernando B, Talebi S, Lary DJ. Estimate inhaled carbon dioxide using biometric variables of a participant.
-https://github.com/mi3nts/Estimate-CO2, 2023
+If the code and data was useful, then the please use the following citation:
 
-Bibtex:
+`Ruwali S, Fernando B, Talebi S, Lary DJ. Estimate inhaled carbon dioxide using biometric variables of a participant.
+https://github.com/mi3nts/Estimate-CO2, 2023`
+
+__Bibtex__:
+```
 @misc{biometrics,
 author={Ruwali,S. and Fernando, B.A. and Talebi, S. and Lary, D. J.},
 title={Estimate Inhaled Carbon dioxide Using Biometric Variables of a Participant},
 howpublished={https://github.com/mi3nts/Estimate-CO2},
 year={2023},
 }
-
+```
 The entire dataset and description is available in Zenodo:
