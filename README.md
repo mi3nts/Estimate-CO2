@@ -32,18 +32,4 @@ howpublished={https://github.com/mi3nts/Estimate-CO2},
 year={2023},
 }
 
-@article{Gaboardi2021,
-    doi       = {10.21105/joss.02826},
-    url       = {https://doi.org/10.21105/joss.02826},
-    year      = {2021},
-    publisher = {The Open Journal},
-    volume    = {6},
-    number    = {62},
-    pages     = {2826},
-    author    = {James D. Gaboardi and Sergio Rey and Stefanie Lumnitz},
-    title     = {spaghetti: spatial network analysis in PySAL},
-    journal   = {Journal of Open Source Software}
-}
-
-
 The entire dataset and description is available in Zenodo:
